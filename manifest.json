@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Instagram Doomscroll Prevention",
+  "version": "1.0",
+  "description": "Stops you from doomscrolling, only allows access to messages",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.instagram.com/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}

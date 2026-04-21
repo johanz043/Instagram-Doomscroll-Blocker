@@ -18,7 +18,7 @@ chrome://extensions/
 **Step 6** - Click Load Unpacked and select the Doomscroll Blocker file
 
 
-<img width="600" height="500" alt="Screenshot 2026-04-21 114252" src="https://github.com/user-attachments/assets/a49cab99-c0cc-449b-ad12-3a74838b3a32" />
-<img width="600" height="500" alt="Screenshot 2026-04-21 114422" src="https://github.com/user-attachments/assets/58720b6e-e0ea-4dbf-87d2-def9d9bf8ed7" />
-<img width="600" height="500" alt="Screenshot 2026-04-21 114335" src="https://github.com/user-attachments/assets/de78fecd-f79a-4dbc-8eb2-985ecf2e5fdb" />
+<img width="800" height="500" alt="Screenshot 2026-04-21 114252" src="https://github.com/user-attachments/assets/a49cab99-c0cc-449b-ad12-3a74838b3a32" />
+<img width="800" height="500" alt="Screenshot 2026-04-21 114422" src="https://github.com/user-attachments/assets/58720b6e-e0ea-4dbf-87d2-def9d9bf8ed7" />
+<img width="800" height="500" alt="Screenshot 2026-04-21 114335" src="https://github.com/user-attachments/assets/de78fecd-f79a-4dbc-8eb2-985ecf2e5fdb" />
 
